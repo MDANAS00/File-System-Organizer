@@ -1,0 +1,18 @@
+Taking input for Integers :-
+int n = scn.nextInt();
+
+Taking input for Long :-
+long l = scn.nextLong();
+
+Taking input for Double :-
+double d = scn.nextDouble();
+
+Taking input for Float :-
+float f = scn.nextFloat();
+
+Taking input for String :-
+String str = scn.nextLine();
+
+Taking input for Character :-
+char c = sc.next().charAt(0);
+https://www.pornhub.org/view_video.php?viewkey=ph61e4d583e80d5
