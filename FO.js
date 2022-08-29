@@ -50,4 +50,7 @@ function organizeFn(dirPath){
             console.log('Folder Already Exist')
         }
     }
+    else{
+        console.log('Please enter a valid Path')
+    }
 }
